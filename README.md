@@ -24,7 +24,7 @@ Open Chrome browser and save these two files into your Downloads folder:
 1. The latest version of [battle.net](https://downloader.battle.net//download/getInstallerForGame?os=win&gameProgram=BATTLENET_APP&version=Live).
 2. The latest version of [GE Proton](https://github.com/GloriousEggroll/proton-ge-custom/releases/latest). Download the `.tar.gz`. **Make note of the file name**.
 
-Launch Steam. This starts the borealis environment. **Don't close Steam.**
+Launch Steam. This starts the borealis virtual environment. **Don't close Steam.**
 
 Click back to your desktop and launch a Crosh Terminal `ctrl+alt+t`
 
