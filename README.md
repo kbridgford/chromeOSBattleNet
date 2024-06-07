@@ -83,7 +83,7 @@ Force compatibility like we did before on the installer.
 
 Now we can launch battle.net and install Starcraft 2. I had to pause and restart the download because it slowed way down. 
 
-After this point you are set. You can launch Starcraft 2 from inside battle.net. I had to do a reboot because things were a little slow and buggy at first, but after that it runs pretty great.
+After this point you are set. You can launch Starcraft 2 from inside battle.net. Adjust graphics settings to low and 1920 x 1080. I had to do a reboot because things were a little slow and buggy at first, but after that it runs pretty great.
 
 ## To Do
 
