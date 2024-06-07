@@ -8,7 +8,7 @@ A little video of it in action
 
 https://github.com/kbridgford/chromeOSBattleNet/assets/57777806/e62f4542-1a3f-4446-b028-a61aab376a78
 
-We need to get the latest version of GE Proton loaded into steam. Proton is the virtualization layer that allows us to launch windows apps (like battle.net). I didn't have any luck with Proton stable or Proton Experimental. Only worked with GE Proton.
+We need to get the latest version of GE Proton loaded into steam. Proton is the emulation layer that allows us to launch windows apps (like battle.net). I didn't have any luck with Proton stable or Proton Experimental. Only worked with GE Proton.
 
 ## Assumptions
 
@@ -83,7 +83,7 @@ Force compatibility like we did before on the installer.
 
 Now we can launch battle.net and install Starcraft 2. I had to pause and restart the download because it slowed way down. 
 
-After this point you are set. You can launch Starcraft 2 from inside battle.net. I had to do a reboot because things weren't behaving a little slow and buggy at first, but after that it runs pretty great.
+After this point you are set. You can launch Starcraft 2 from inside battle.net. I had to do a reboot because things were a little slow and buggy at first, but after that it runs pretty great.
 
 ## To Do
 
