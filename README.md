@@ -43,8 +43,8 @@ vsh borealis
 
 # Copy the battle.net installer and GE Proton from the Downloads folder into our home directory
 
-cp /mnt/shared/MyFiles/Downloads/Battle.net-Setup.exe ./
-cp /mnt/shared/MyFiles/Downloads/GE-Proton9-7.tar.gz ./
+cp /mnt/shared/MyFiles/Downloads/Battle.net-Setup.exe .
+cp /mnt/shared/MyFiles/Downloads/GE-Proton9-7.tar.gz .
 
 # Create directory in Steam folder and untar GE Proton into that directory
 
